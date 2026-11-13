@@ -36,3 +36,20 @@
 | Actual Result | To be updated during test execution. |
 | Status | Not Executed |
 
+## TC_003 – Verify Email Address Format Validation
+
+| Field | Details |
+|---|---|
+| Test Case ID | TC_003 |
+| Test Scenario ID | TS_005 |
+| Test Case Title | Verify email address format validation |
+| Module | Employee Registration |
+| Priority | High |
+| Test Type | Negative Testing |
+| Preconditions | Admin user is logged in and Employee Registration form is accessible. |
+| Test Data | Employee Name: John Smith; Email: john123; Phone: 9876543210; Joining Date: 2026-11-16 |
+| Test Steps | 1. Open the Employee Registration form. 2. Enter a valid employee name. 3. Enter an invalid email address (john123). 4. Enter a valid phone number. 5. Enter a valid joining date. 6. Click Submit/Register. |
+| Expected Result | The system should reject the invalid email address, display an appropriate validation message, and prevent employee registration. |
+| Actual Result | To be updated during test execution. |
+| Status | Not Executed |
+
