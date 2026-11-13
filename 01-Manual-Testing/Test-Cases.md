@@ -17,3 +17,22 @@
 | Actual Result | To be updated during test execution. |
 | Status | Not Executed |
 
+
+
+## TC_002 – Verify Mandatory Field Validation
+
+| Field | Details |
+|---|---|
+| Test Case ID | TC_002 |
+| Test Scenario ID | TS_003 |
+| Test Case Title | Verify mandatory field validation |
+| Module | Employee Registration |
+| Priority | High |
+| Test Type | Negative Testing |
+| Preconditions | Admin user is logged in and Employee Registration form is accessible. |
+| Test Data | Leave all mandatory fields empty. |
+| Test Steps | 1. Open the Employee Registration form. 2. Leave all mandatory fields empty. 3. Click the Submit/Register button. |
+| Expected Result | The system should prevent employee registration and display appropriate validation messages for all mandatory fields. |
+| Actual Result | To be updated during test execution. |
+| Status | Not Executed |
+
