@@ -26,17 +26,18 @@ A fictional HRMS application with features such as:
 - GitHub Actions – CI/CD
 - Generative AI for Test Design
 
-## Project Modules
+## Project Progress
 
 | Module | Status |
 |---|---|
-| Test Planning | In Progress |
-| Test Case Design | Planned |
-| Bug Reporting | Planned |
-| API Testing | Planned |
-| Playwright Automation | Planned |
-| AI-Assisted Testing | Planned |
-| CI/CD Integration | Planned |
+| Test Planning | Completed |
+| Test Case Design | Completed |
+| Bug Report Documentation | Completed |
+| Practical Test Execution | Not Started |
+| API Testing | Not Started |
+| Playwright Automation | Not Started |
+| AI-Assisted Testing | Not Started |
+| CI/CD Integration | Not Started |
 
 ## My QA Approach
 
