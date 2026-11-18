@@ -898,26 +898,22 @@
       }
     }
   ],
-  "variable": [
+ "variable": [
     {
-      "key": "appName",
-      "value": ""
+        "key": "appName",
+        "value": "HRMS"
     },
     {
-      "key": "{{baseUrl}}",
-      "value": ""
+        "key": "baseUrl",
+        "value": "https://dummyjson.com"
     },
     {
-      "key": "{{accessToken}}",
-      "value": ""
+        "key": "accessToken",
+        "value": ""
     },
     {
-      "key": "userName",
-      "value": ""
-    },
-    {
-      "key": "accessToken",
-      "value": ""
+        "key": "userName",
+        "value": "wafa"
     }
-  ]
+]
 }
