@@ -3,6 +3,9 @@ name: HRMS API Tests
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   api-tests:
