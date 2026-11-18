@@ -460,7 +460,7 @@
               "const response = pm.response.json();\r",
               "\r",
               "pm.test(\"Status code should be 404\", function () {\r",
-              "    pm.response.to.have.status(200);\r",
+              "    pm.response.to.have.status(404);\r",
               "});\r",
               "\r",
               "pm.test(\"Error message should exist\", function () {\r",
