@@ -46,4 +46,5 @@ My approach is to understand requirements, identify risks, ask questions when re
 ## Important Note
 
 This is an independent learning project using fictional data. It is not affiliated with any real HRMS company.
+Learning GitHub Pull Requests and CI/CD testing.
 
