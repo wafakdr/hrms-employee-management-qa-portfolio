@@ -846,7 +846,7 @@
       "value": ""
     },
     {
-      "key": "baserl",
+      "key": "baseUrl",
       "value": "https://dummyjson.com"
     }
   ]
