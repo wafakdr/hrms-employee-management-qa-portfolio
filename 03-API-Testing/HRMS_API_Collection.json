@@ -839,15 +839,15 @@
   "variable": [
     {
       "key": "appName",
-      "value": ""
+      "value": "HRMS"
     },
     {
       "key": "accessToken",
       "value": ""
     },
     {
-      "key": "baseurl",
-      "value": ""
+      "key": "baserl",
+      "value": "https://dummyjson.com"
     }
   ]
 }
