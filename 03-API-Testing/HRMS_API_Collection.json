@@ -903,19 +903,19 @@
   "variable": [
     {
       "key": "appName",
-      "value": ""
+      "value": "HRMS"
     },
     {
       "key": "{{baseUrl}}",
-      "value": ""
+      "value": "https://dummyjson.com"
     },
     {
       "key": "{{accessToken}}",
-      "value": ""
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3OTQ5OTUzNTUsImV4cCI6MTc5NDk5ODk1NX0.cQayD4YV3fnLsxeLBW3k79q8ASmZq_4EjzvdEAlmXFo"
     },
     {
       "key": "userName",
-      "value": ""
+      "value": "wafa"
     },
     {
       "key": "accessToken",
